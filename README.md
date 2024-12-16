@@ -1,12 +1,8 @@
----
-
 # Quick Papers
 
 **Quick Papers** is a lightweight, fast, and minimal application designed to streamline the process of downloading **Cambridge Past Papers** for CAIE examinations.  
 
 Whether you're preparing for **AS & A Level** or **O Level** exams, Quick Papers allows you to retrieve question papers and marking schemes effortlessly using subject codes.
-
----
 
 ## Features
 
@@ -22,7 +18,6 @@ Whether you're preparing for **AS & A Level** or **O Level** exams, Quick Papers
   - Paper Type (Question Paper or Marking Scheme)
   - Paper & Variant Numbers
 
----
 
 ## How It Works
 
@@ -35,7 +30,6 @@ Whether you're preparing for **AS & A Level** or **O Level** exams, Quick Papers
    - **Variant**: 1, 2, or 3
 3. Click **Download** — and the app fetches the paper for you!
 
----
 
 ## Installation
 
@@ -61,7 +55,6 @@ Whether you're preparing for **AS & A Level** or **O Level** exams, Quick Papers
    python main.py
    ```
 
----
 
 ## Usage
 
@@ -74,29 +67,24 @@ Whether you're preparing for **AS & A Level** or **O Level** exams, Quick Papers
    - Paper and Variant numbers
 3. Download your paper — it’s that easy!
 
----
 
 ## Screenshot
 
-[!Imgur Image][https://imgur.com/a/fjjUTVU.png]
+![Imgur Image][https://imgur.com/a/fjjUTVU.png]
 
----
 
 ## Contributing
 
 Feel free to fork this project, open issues, or submit pull requests. All contributions are welcome!
 
----
 
 ## License
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
----
 
 ## Acknowledgments
 
 - Inspired by the need for a **faster, simpler way** to access Cambridge Past Papers.
 - Built with Python and PySide6.
 
----

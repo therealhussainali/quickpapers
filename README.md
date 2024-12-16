@@ -70,7 +70,7 @@ Whether you're preparing for **AS & A Level** or **O Level** exams, Quick Papers
 
 ## Screenshot
 
-![Imgur Image][https://imgur.com/a/fjjUTVU.png]
+![Imgur Image](https://imgur.com/a/fjjUTVU.png)
 
 
 ## Contributing

@@ -1,0 +1,12 @@
+# Python-specific
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+env/
+
+# PyInstaller build files
+dist/
+build/
+*.spec
